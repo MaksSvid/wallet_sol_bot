@@ -1,0 +1,9 @@
+doc/
+idea/
+.git/
+.env
+.flake8
+.gitignore
+README.md
+
+
